@@ -1,7 +1,1 @@
-// Cole aqui a configuração do seu projeto Firebase (passo 4 do LEIA-ME.md)
-window.FIREBASE_CONFIG = {
-  apiKey: "COLE_AQUI",
-  authDomain: "COLE_AQUI.firebaseapp.com",
-  projectId: "COLE_AQUI",
-  appId: "COLE_AQUI"
-};
+window.FIREBASE_CONFIG = { apiKey: "AIzaSyB7sam0FCK8DZ4cJq6zhirzxHpoojEjctc", authDomain: "agenda-credito-rural.firebaseapp.com", projectId: "agenda-credito-rural", appId: "1:473735619782:web:f3f378fccbb2f72b4da3c7" };
